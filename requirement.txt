@@ -1,2 +1,2 @@
-SpeechRecognition==3.8.1
+speech_recognition
 streamlit-audiorec
