@@ -1,2 +1,5 @@
+streamlit
 speech_recognition
 streamlit-audiorec
+pyaudio
+
