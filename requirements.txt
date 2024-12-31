@@ -3,4 +3,5 @@ SpeechRecognition
 streamlit-audiorec
 pandas
 altair
+openpyxl
 
