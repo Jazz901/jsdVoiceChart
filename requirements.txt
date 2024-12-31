@@ -3,5 +3,4 @@ SpeechRecognition
 streamlit-audiorec
 pandas
 altair
-io
 
